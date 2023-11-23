@@ -27,3 +27,6 @@ Please ensure that you have the necessary permissions to read the PDF files in t
 ```
 pip install PyPDF2
 ```
+
+## License
+This project is licensed under MIT License. See the LICENSE file for more details.
