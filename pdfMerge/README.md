@@ -3,6 +3,12 @@
 ## Description
 `pdfMerge.py` is a Python script that merges all PDF files within a specified folder. If no argument is provided, it will attempt to merge all PDF files from a directory named `PDF` under the current directory. The merged PDF file is saved in the current directory.
 
+## Features
+- **Directory-based Merging**: Merges all PDF files in a specified directory into one PDF document.
+- **Command-line Interface**: Easy to use with command-line arguments.
+- **Customizable Folder Selection**: Allows specifying a target folder for locating PDF files.
+- **Sorted Merging**: Merges PDF files in alphabetical order.
+
 ## Technologies Used
 This script uses the `PyPDF2` library to handle PDF files.
 
